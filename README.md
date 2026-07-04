@@ -10,4 +10,4 @@
 
 模型1：数据集容量在6000左右，训练集占90%，验证和测试全部加起来仅10%
 
-![监控曲线](asset/model/results.png)
+![监控曲线](asset/model1/results.png)
