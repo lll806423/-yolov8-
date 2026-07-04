@@ -54,5 +54,5 @@
 
 <div style="display: flex; justify-content: center; gap: 10px;">
     <img src="asset/model2/val_batch1_pred.jpg" height="300">
-    <img src=""asset/model2/val_batch2_pred.jpg" height="300">
+    <img src="asset/model2/val_batch2_pred.jpg" height="300">
 </div>
