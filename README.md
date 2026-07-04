@@ -1,4 +1,4 @@
-# -基于yolov8实现的火焰/烟雾识别（支持图片和视频检测）-
+# 🔥🔥🔥-基于yolov8实现的火焰/烟雾识别（支持图片和视频检测）-
 ***
 ## ①Introduction
 🎯配置环境
@@ -31,5 +31,5 @@
 效果展示
 
 <img src="asset/model1/63_model2.jpg" width="400" height="400" alt="监控">
-<img src="asset/model1/92_model2.jpg" width="400" height="400" alt="监控">
+<img src="asset/model1/91_model2.jpg" width="400" height="400" alt="监控">
 
