@@ -40,6 +40,8 @@
 ✨模型2：数据集容量达到了16000，训练，验证，测试比例为821，置信度有所提高
 
 各项指标如图
+
+
 <img src="asset/model2/results.png" width="800" alt="监控曲线">
 <div style="display: flex; justify-content: center; gap: 10px;">
     <img src="asset/model2/confusion_matrix_normalized.png" height="300">
