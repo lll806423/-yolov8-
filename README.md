@@ -44,6 +44,6 @@
 
 <img src="asset/model2/results.png" width="800" alt="监控曲线">
 <div style="display: flex; justify-content: center; gap: 10px;">
-    <img src="asset/model2/confusion_matrix_normalized.png" height="300">
+    <img src="asset/model2/confusion_matrix.png" height="300">
     <img src="asset/model2/labels.jpg" height="300">
 </div>
