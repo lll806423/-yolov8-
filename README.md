@@ -26,4 +26,8 @@
     <img src="asset/model1/labels.jpg" height="300">
 </div>
 ***
+
 效果展示
+
+<img src="asset/model1/63_model2" width="800" alt="监控">
+<img src="asset/model1/92_model2" width="800" alt="监控">
