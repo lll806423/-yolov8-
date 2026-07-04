@@ -29,7 +29,6 @@
 </div>
 
 
-
 🖼️效果展示
 
 <img src="asset/model1/63_model2.jpg" width="400" height="400" alt="监控">
@@ -37,3 +36,5 @@
 <img src="asset/model1/92_model2.jpg" width="400" height="400" alt="监控">
 
 ***
+
+模型2：数据集容量达到了16000，训练，验证，测试比例为821，置信度提高的较多
